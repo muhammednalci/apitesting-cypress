@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "cy:open": "cypress open --config integrationFolder=cypress/specs",
-    "cy:run": "cypress run --headless --browser chrome --config integrationFolder=cypress/specs"
+    "cy:run": "cypress run --headless --config integrationFolder=cypress/specs"
   },
 
   "devDependencies": {
