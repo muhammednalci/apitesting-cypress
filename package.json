@@ -1,0 +1,8 @@
+{
+  "name": "ApiTestingCypress",
+  "version": "1.0.0",
+  "description": "examples for some api tests using Cypress",
+  "main": "index.js",
+  "author": "MuhammedNalci",
+  "license": "MIT"
+}
