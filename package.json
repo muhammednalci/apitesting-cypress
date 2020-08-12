@@ -4,5 +4,13 @@
   "description": "examples for some api tests using Cypress",
   "main": "index.js",
   "author": "MuhammedNalci",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "cy:open": "cypress open --config integrationFolder=cypress/specs",
+    "cy:run": "cypress run --headless --browser chrome --config integrationFolder=cypress/specs"
+  },
+
+  "devDependencies": {
+    "cypress": "^4.12.1"
+  }
 }
