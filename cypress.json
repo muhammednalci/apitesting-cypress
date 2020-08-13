@@ -1,5 +1,7 @@
 {
   "baseUrl": "https://jsonplaceholder.typicode.com",
   "video": false,
-  "env": {}
+  "env": {
+    "allureResultsPath": "cypress/testResults"
+  }
 }

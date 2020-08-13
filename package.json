@@ -7,10 +7,12 @@
   "license": "MIT",
   "scripts": {
     "cy:open": "cypress open --config integrationFolder=cypress/specs",
-    "cy:run": "cypress run --headless --config integrationFolder=cypress/specs"
+    "cy:run": "rm -rf cypress/testResults && cypress run --headless --config integrationFolder=cypress/specs --env allure=true",
+    "allure:report": "yarn allure generate cypress/testResults -c -o cypress/allure-results"
   },
-
   "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^1.8.0",
+    "allure-commandline": "^2.13.0",
     "cypress": "^4.12.1"
   }
 }

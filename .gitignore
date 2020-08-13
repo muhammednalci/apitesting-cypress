@@ -1,3 +1,6 @@
 node_modules
 cypress/specs/.DS_Store
 cypress/fixtures/emails.json
+cypress/allure-results
+cypress/testResults
+cypress/.DS_Store
