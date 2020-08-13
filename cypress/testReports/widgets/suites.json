@@ -1,0 +1,59 @@
+{
+  "total" : 5,
+  "items" : [ {
+    "uid" : "b227afdd736762645be2f3048a25fd1d",
+    "name" : "Email RegEx Check One By One",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 51,
+      "unknown" : 0,
+      "total" : 51
+    }
+  }, {
+    "uid" : "93d67b669ec319dd911a0e60b8c09ba3",
+    "name" : "Search user with username invalid cases",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "afff4e9f717fcb366f41a027e81d042c",
+    "name" : "Search comment with postId invalid cases",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "2f278344487e89e9985799c551af7c42",
+    "name" : "Search post with userId invalid cases",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "2a9135dbed2e9c11e4d3a356229ee569",
+    "name" : "Email RegEx Check All Together",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

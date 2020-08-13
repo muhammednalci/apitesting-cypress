@@ -1,0 +1,35 @@
+{
+  "uid" : "c254d0ea73c54ec4",
+  "name" : "Assert the email:May_Steuber@virgil.net matches the regex",
+  "fullName" : "Assert the email:May_Steuber@virgil.net matches the regex",
+  "historyId" : "c7aa71528a4cf5ec153bbfee69109115",
+  "time" : {
+    "start" : 1597337949022,
+    "stop" : 1597337949041,
+    "duration" : 19
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c254d0ea73c54ec4.json",
+  "parameterValues" : [ ]
+}

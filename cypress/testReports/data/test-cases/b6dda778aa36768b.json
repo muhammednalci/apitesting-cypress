@@ -1,0 +1,35 @@
+{
+  "uid" : "b6dda778aa36768b",
+  "name" : "Assert the email:Domenick_Douglas@gabe.us matches the regex",
+  "fullName" : "Assert the email:Domenick_Douglas@gabe.us matches the regex",
+  "historyId" : "4b98bb61a4cae68d9873fc04f9f5cad0",
+  "time" : {
+    "start" : 1597337948807,
+    "stop" : 1597337948823,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b6dda778aa36768b.json",
+  "parameterValues" : [ ]
+}

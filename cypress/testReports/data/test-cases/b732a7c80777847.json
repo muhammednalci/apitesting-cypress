@@ -1,0 +1,35 @@
+{
+  "uid" : "b732a7c80777847",
+  "name" : "Assert the email:Elian@matilda.me matches the regex",
+  "fullName" : "Assert the email:Elian@matilda.me matches the regex",
+  "historyId" : "ea135cdf876065a5d3474b94e8bc39f2",
+  "time" : {
+    "start" : 1597337949444,
+    "stop" : 1597337949452,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b732a7c80777847.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,35 @@
+{
+  "uid" : "e5471a0acb4d2c96",
+  "name" : "Assert the email:Bernie.Schoen@seamus.co.uk matches the regex",
+  "fullName" : "Assert the email:Bernie.Schoen@seamus.co.uk matches the regex",
+  "historyId" : "951cd355284a3ceea8fb244a963053fb",
+  "time" : {
+    "start" : 1597337949274,
+    "stop" : 1597337949292,
+    "duration" : 18
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e5471a0acb4d2c96.json",
+  "parameterValues" : [ ]
+}

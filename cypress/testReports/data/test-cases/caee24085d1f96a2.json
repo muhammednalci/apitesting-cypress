@@ -1,0 +1,35 @@
+{
+  "uid" : "caee24085d1f96a2",
+  "name" : "Assert the email:Lizzie_Bartell@diamond.net matches the regex",
+  "fullName" : "Assert the email:Lizzie_Bartell@diamond.net matches the regex",
+  "historyId" : "09945152c7ece049ac129432a9c2e787",
+  "time" : {
+    "start" : 1597337949389,
+    "stop" : 1597337949404,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "caee24085d1f96a2.json",
+  "parameterValues" : [ ]
+}

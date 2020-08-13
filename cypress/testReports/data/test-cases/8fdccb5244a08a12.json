@@ -1,0 +1,35 @@
+{
+  "uid" : "8fdccb5244a08a12",
+  "name" : "Assert the email:Shany@daisha.biz matches the regex",
+  "fullName" : "Assert the email:Shany@daisha.biz matches the regex",
+  "historyId" : "1a036d7052018e6a7c044c1d83785271",
+  "time" : {
+    "start" : 1597337949187,
+    "stop" : 1597337949204,
+    "duration" : 17
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8fdccb5244a08a12.json",
+  "parameterValues" : [ ]
+}

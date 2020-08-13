@@ -1,0 +1,35 @@
+{
+  "uid" : "65ecf03db659b803",
+  "name" : "Assert the email:Destinee.Simonis@jose.tv matches the regex",
+  "fullName" : "Assert the email:Destinee.Simonis@jose.tv matches the regex",
+  "historyId" : "92c9f1c1b4307f23bd8b697ca28240b4",
+  "time" : {
+    "start" : 1597337948719,
+    "stop" : 1597337948736,
+    "duration" : 17
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "65ecf03db659b803.json",
+  "parameterValues" : [ ]
+}

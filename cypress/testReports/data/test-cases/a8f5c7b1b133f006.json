@@ -1,0 +1,35 @@
+{
+  "uid" : "a8f5c7b1b133f006",
+  "name" : "Assert the email:Marianna.Pacocha@george.net matches the regex",
+  "fullName" : "Assert the email:Marianna.Pacocha@george.net matches the regex",
+  "historyId" : "33b9dfe6f0b4be05add24e7c41bfc808",
+  "time" : {
+    "start" : 1597337948851,
+    "stop" : 1597337948858,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a8f5c7b1b133f006.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,35 @@
+{
+  "uid" : "99ea06f173cbbc03",
+  "name" : "Assert the email:Adolf.Russel@clark.ca matches the regex",
+  "fullName" : "Assert the email:Adolf.Russel@clark.ca matches the regex",
+  "historyId" : "a119403b731a664ea2211ea7304aea21",
+  "time" : {
+    "start" : 1597337949425,
+    "stop" : 1597337949442,
+    "duration" : 17
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "99ea06f173cbbc03.json",
+  "parameterValues" : [ ]
+}

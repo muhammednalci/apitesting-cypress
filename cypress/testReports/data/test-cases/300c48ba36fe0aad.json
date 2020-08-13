@@ -1,0 +1,35 @@
+{
+  "uid" : "300c48ba36fe0aad",
+  "name" : "Assert the email:Oscar@pearline.com matches the regex",
+  "fullName" : "Assert the email:Oscar@pearline.com matches the regex",
+  "historyId" : "a5047226ecaee04208e59f6d7b0096a5",
+  "time" : {
+    "start" : 1597337949139,
+    "stop" : 1597337949156,
+    "duration" : 17
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "300c48ba36fe0aad.json",
+  "parameterValues" : [ ]
+}

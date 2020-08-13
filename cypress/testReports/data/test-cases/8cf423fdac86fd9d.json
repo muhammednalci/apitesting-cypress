@@ -1,0 +1,35 @@
+{
+  "uid" : "8cf423fdac86fd9d",
+  "name" : "Assert the email:Isaac@allene.net matches the regex",
+  "fullName" : "Assert the email:Isaac@allene.net matches the regex",
+  "historyId" : "7ccf7a041e20c7101439474697a9e1e1",
+  "time" : {
+    "start" : 1597337948833,
+    "stop" : 1597337948839,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8cf423fdac86fd9d.json",
+  "parameterValues" : [ ]
+}

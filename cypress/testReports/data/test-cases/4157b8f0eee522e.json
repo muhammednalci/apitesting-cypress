@@ -1,0 +1,35 @@
+{
+  "uid" : "4157b8f0eee522e",
+  "name" : "Assert the email:Aurelie_McKenzie@providenci.biz matches the regex",
+  "fullName" : "Assert the email:Aurelie_McKenzie@providenci.biz matches the regex",
+  "historyId" : "eb57b57053080f51dcb56004110a2eb4",
+  "time" : {
+    "start" : 1597337949003,
+    "stop" : 1597337949009,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4157b8f0eee522e.json",
+  "parameterValues" : [ ]
+}

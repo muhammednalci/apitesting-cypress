@@ -1,0 +1,35 @@
+{
+  "uid" : "ea60b409d455ac8a",
+  "name" : "Assert the email:Dennis@karley.net matches the regex",
+  "fullName" : "Assert the email:Dennis@karley.net matches the regex",
+  "historyId" : "c81431f6659fe7c67b46199aa085b987",
+  "time" : {
+    "start" : 1597337949503,
+    "stop" : 1597337949508,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ea60b409d455ac8a.json",
+  "parameterValues" : [ ]
+}

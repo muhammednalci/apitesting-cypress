@@ -1,0 +1,35 @@
+{
+  "uid" : "e343ae4aa4d1bfcf",
+  "name" : "Assert the email:Elda@orval.name matches the regex",
+  "fullName" : "Assert the email:Elda@orval.name matches the regex",
+  "historyId" : "c22c09fb3050c6b5c30c56634b246a2b",
+  "time" : {
+    "start" : 1597337949494,
+    "stop" : 1597337949501,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e343ae4aa4d1bfcf.json",
+  "parameterValues" : [ ]
+}

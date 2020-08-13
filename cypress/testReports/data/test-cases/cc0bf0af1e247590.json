@@ -1,0 +1,35 @@
+{
+  "uid" : "cc0bf0af1e247590",
+  "name" : "Assert the email:Salma@francis.net matches the regex",
+  "fullName" : "Assert the email:Salma@francis.net matches the regex",
+  "historyId" : "5e5a922674955d53dde834879f60cc5d",
+  "time" : {
+    "start" : 1597337949454,
+    "stop" : 1597337949471,
+    "duration" : 17
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cc0bf0af1e247590.json",
+  "parameterValues" : [ ]
+}

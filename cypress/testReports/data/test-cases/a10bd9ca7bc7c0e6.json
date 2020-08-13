@@ -1,0 +1,35 @@
+{
+  "uid" : "a10bd9ca7bc7c0e6",
+  "name" : "Assert the email:Aylin@abigale.me matches the regex",
+  "fullName" : "Assert the email:Aylin@abigale.me matches the regex",
+  "historyId" : "62b931e591f54398f197c231666a8aa8",
+  "time" : {
+    "start" : 1597337949089,
+    "stop" : 1597337949107,
+    "duration" : 18
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a10bd9ca7bc7c0e6.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,35 @@
+{
+  "uid" : "24f81ba7f26e4f80",
+  "name" : "Assert the email:Adolph.Hayes@isobel.biz matches the regex",
+  "fullName" : "Assert the email:Adolph.Hayes@isobel.biz matches the regex",
+  "historyId" : "c4050d1068137ce4a18f70d802b274f5",
+  "time" : {
+    "start" : 1597337949588,
+    "stop" : 1597337949602,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "24f81ba7f26e4f80.json",
+  "parameterValues" : [ ]
+}

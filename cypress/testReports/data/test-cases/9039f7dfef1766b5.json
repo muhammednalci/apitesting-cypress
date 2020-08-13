@@ -1,0 +1,35 @@
+{
+  "uid" : "9039f7dfef1766b5",
+  "name" : "Assert the email:Jonathon_Feest@maxime.io matches the regex",
+  "fullName" : "Assert the email:Jonathon_Feest@maxime.io matches the regex",
+  "historyId" : "8cbbb1fba8bd2115b1bd6e87b71510b4",
+  "time" : {
+    "start" : 1597337949159,
+    "stop" : 1597337949168,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9039f7dfef1766b5.json",
+  "parameterValues" : [ ]
+}

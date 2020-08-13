@@ -1,0 +1,35 @@
+{
+  "uid" : "a4454110eb2ebc1",
+  "name" : "Assert the email:Irma.OKon@arden.me matches the regex",
+  "fullName" : "Assert the email:Irma.OKon@arden.me matches the regex",
+  "historyId" : "4a5020672078576a489a890ead742461",
+  "time" : {
+    "start" : 1597337948918,
+    "stop" : 1597337948926,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a4454110eb2ebc1.json",
+  "parameterValues" : [ ]
+}

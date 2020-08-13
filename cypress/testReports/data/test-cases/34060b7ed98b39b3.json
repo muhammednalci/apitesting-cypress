@@ -1,0 +1,35 @@
+{
+  "uid" : "34060b7ed98b39b3",
+  "name" : "Assert the email:Holden@kenny.io matches the regex",
+  "fullName" : "Assert the email:Holden@kenny.io matches the regex",
+  "historyId" : "215d817270509d2b602bf4c1c18156a5",
+  "time" : {
+    "start" : 1597337949109,
+    "stop" : 1597337949118,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "34060b7ed98b39b3.json",
+  "parameterValues" : [ ]
+}

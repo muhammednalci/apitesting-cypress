@@ -1,0 +1,35 @@
+{
+  "uid" : "6ae57ca5b58c654e",
+  "name" : "Assert the email:Marilou_Halvorson@kane.io matches the regex",
+  "fullName" : "Assert the email:Marilou_Halvorson@kane.io matches the regex",
+  "historyId" : "cf9028debd43695e2ae64be8d974754b",
+  "time" : {
+    "start" : 1597337949256,
+    "stop" : 1597337949272,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6ae57ca5b58c654e.json",
+  "parameterValues" : [ ]
+}

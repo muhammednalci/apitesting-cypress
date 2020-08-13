@@ -1,0 +1,35 @@
+{
+  "uid" : "5346c14455fbf9e2",
+  "name" : "Assert the email:Orlando_Dickinson@vern.org matches the regex",
+  "fullName" : "Assert the email:Orlando_Dickinson@vern.org matches the regex",
+  "historyId" : "690ed1b6fa33a321aa0ada3ff7d6d8e6",
+  "time" : {
+    "start" : 1597337949474,
+    "stop" : 1597337949492,
+    "duration" : 18
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5346c14455fbf9e2.json",
+  "parameterValues" : [ ]
+}

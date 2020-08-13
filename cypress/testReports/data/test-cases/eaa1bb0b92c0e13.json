@@ -1,0 +1,35 @@
+{
+  "uid" : "eaa1bb0b92c0e13",
+  "name" : "Assert the email:Priscilla@colten.org matches the regex",
+  "fullName" : "Assert the email:Priscilla@colten.org matches the regex",
+  "historyId" : "cc80734072df36a17514c7b64905e7fe",
+  "time" : {
+    "start" : 1597337949072,
+    "stop" : 1597337949087,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eaa1bb0b92c0e13.json",
+  "parameterValues" : [ ]
+}

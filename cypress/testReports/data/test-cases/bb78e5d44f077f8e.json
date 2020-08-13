@@ -1,0 +1,35 @@
+{
+  "uid" : "bb78e5d44f077f8e",
+  "name" : "Assert the email:Patience_Bahringer@dameon.biz matches the regex",
+  "fullName" : "Assert the email:Patience_Bahringer@dameon.biz matches the regex",
+  "historyId" : "684b13eabc55f67fc53cd279c5377d41",
+  "time" : {
+    "start" : 1597337948689,
+    "stop" : 1597337948708,
+    "duration" : 19
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bb78e5d44f077f8e.json",
+  "parameterValues" : [ ]
+}

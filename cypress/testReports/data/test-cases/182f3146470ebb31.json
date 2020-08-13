@@ -1,0 +1,35 @@
+{
+  "uid" : "182f3146470ebb31",
+  "name" : "Assert the email:Susan.Bartell@euna.org matches the regex",
+  "fullName" : "Assert the email:Susan.Bartell@euna.org matches the regex",
+  "historyId" : "441db53d89b9eedeee0fc2d655acbcc8",
+  "time" : {
+    "start" : 1597337949350,
+    "stop" : 1597337949355,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "182f3146470ebb31.json",
+  "parameterValues" : [ ]
+}

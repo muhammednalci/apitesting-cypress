@@ -1,0 +1,35 @@
+{
+  "uid" : "b3eab2651b4adc2f",
+  "name" : "Assert the email:Tessie@emilie.co.uk matches the regex",
+  "fullName" : "Assert the email:Tessie@emilie.co.uk matches the regex",
+  "historyId" : "30f28a4eb36edb874edf072f51b29a78",
+  "time" : {
+    "start" : 1597337949052,
+    "stop" : 1597337949069,
+    "duration" : 17
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b3eab2651b4adc2f.json",
+  "parameterValues" : [ ]
+}

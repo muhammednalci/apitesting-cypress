@@ -1,0 +1,35 @@
+{
+  "uid" : "4e89d4b0651e211d",
+  "name" : "Assert the email:Guillermo_Dare@dorothea.tv matches the regex",
+  "fullName" : "Assert the email:Guillermo_Dare@dorothea.tv matches the regex",
+  "historyId" : "07c0d5d2f28c9681cbb5dfb781e78306",
+  "time" : {
+    "start" : 1597337949121,
+    "stop" : 1597337949137,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4e89d4b0651e211d.json",
+  "parameterValues" : [ ]
+}

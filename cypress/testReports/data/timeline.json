@@ -1,0 +1,928 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Assert the email:Maryam@jack.name matches the regex",
+    "uid" : "d5afce76dd20146d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949538,
+      "stop" : 1597337949553,
+      "duration" : 15
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Holden@kenny.io matches the regex",
+    "uid" : "34060b7ed98b39b3",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949109,
+      "stop" : 1597337949118,
+      "duration" : 9
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Send the user empty in url",
+    "uid" : "e58d6f682191ca3",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337955289,
+      "stop" : 1597337955368,
+      "duration" : 79
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Patience_Bahringer@dameon.biz matches the regex",
+    "uid" : "bb78e5d44f077f8e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337948689,
+      "stop" : 1597337948708,
+      "duration" : 19
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Send a different field",
+    "uid" : "df4358087704c733",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337951588,
+      "stop" : 1597337951676,
+      "duration" : 88
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Keshaun@brown.biz matches the regex",
+    "uid" : "cf91128f04260598",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337948739,
+      "stop" : 1597337948753,
+      "duration" : 14
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Isaac@allene.net matches the regex",
+    "uid" : "8cf423fdac86fd9d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337948833,
+      "stop" : 1597337948839,
+      "duration" : 6
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Collect and save email addresses",
+    "uid" : "d5b338505b6070ae",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337948215,
+      "stop" : 1597337948633,
+      "duration" : 418
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Clifton_Boehm@jacynthe.io matches the regex",
+    "uid" : "1380219db22f3f2e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949378,
+      "stop" : 1597337949386,
+      "duration" : 8
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Dennis@karley.net matches the regex",
+    "uid" : "ea60b409d455ac8a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949503,
+      "stop" : 1597337949508,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Micah_Wolf@lennie.co.uk matches the regex",
+    "uid" : "f38804b9ec1151d1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949170,
+      "stop" : 1597337949175,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Yasmeen@golda.ca matches the regex",
+    "uid" : "8a98e4e9f54acdc2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949406,
+      "stop" : 1597337949422,
+      "duration" : 16
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Rick@carlos.tv matches the regex",
+    "uid" : "69f24683546acbdc",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949556,
+      "stop" : 1597337949573,
+      "duration" : 17
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Send the postId empty in url",
+    "uid" : "63f29457d78a38aa",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337951301,
+      "stop" : 1597337951396,
+      "duration" : 95
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Priscilla@colten.org matches the regex",
+    "uid" : "eaa1bb0b92c0e13",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949072,
+      "stop" : 1597337949087,
+      "duration" : 15
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Irma.OKon@arden.me matches the regex",
+    "uid" : "a4454110eb2ebc1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337948918,
+      "stop" : 1597337948926,
+      "duration" : 8
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Ahmed_Runolfsson@claire.name matches the regex",
+    "uid" : "132b589821de1900",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949238,
+      "stop" : 1597337949253,
+      "duration" : 15
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Get all emails in comments and assert as group",
+    "uid" : "aa52621d82cbba31",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337945130,
+      "stop" : 1597337946395,
+      "duration" : 1265
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Send the user as non existing in DB",
+    "uid" : "9f85d9b249fab17e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337955422,
+      "stop" : 1597337955471,
+      "duration" : 49
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Alaina_Hammes@carter.info matches the regex",
+    "uid" : "1af1d24401366e95",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337948939,
+      "stop" : 1597337948956,
+      "duration" : 17
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Sister_Barton@lela.com matches the regex",
+    "uid" : "1d464b13dbd92940",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337948870,
+      "stop" : 1597337948887,
+      "duration" : 17
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Karina.Donnelly@liam.com matches the regex",
+    "uid" : "6c54cb9bc61e408e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949226,
+      "stop" : 1597337949235,
+      "duration" : 9
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Timmothy.Corwin@augustus.co.uk matches the regex",
+    "uid" : "5834e9c40b2bc013",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949307,
+      "stop" : 1597337949321,
+      "duration" : 14
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Domenick_Douglas@gabe.us matches the regex",
+    "uid" : "b6dda778aa36768b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337948807,
+      "stop" : 1597337948823,
+      "duration" : 16
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Send a different field",
+    "uid" : "fc248c72b439a4b2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337955580,
+      "stop" : 1597337955637,
+      "duration" : 57
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Vallie@jerrod.net matches the regex",
+    "uid" : "31ddd21b9472f1ca",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949577,
+      "stop" : 1597337949586,
+      "duration" : 9
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Vella.Mayer@colten.net matches the regex",
+    "uid" : "417c5a9dce250972",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337948637,
+      "stop" : 1597337948657,
+      "duration" : 20
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Salma@francis.net matches the regex",
+    "uid" : "cc0bf0af1e247590",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949454,
+      "stop" : 1597337949471,
+      "duration" : 17
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Send the postId as string",
+    "uid" : "d3e4166d0c4e388a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337951498,
+      "stop" : 1597337951544,
+      "duration" : 46
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Julien_OHara@vance.io matches the regex",
+    "uid" : "e42c34a6dc548c50",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949323,
+      "stop" : 1597337949348,
+      "duration" : 25
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Send a non existing url",
+    "uid" : "45d34a61c4ebb1b8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337955640,
+      "stop" : 1597337955683,
+      "duration" : 43
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Send a different field",
+    "uid" : "f6a0af9c45f69ede",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337953637,
+      "stop" : 1597337953697,
+      "duration" : 60
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:May_Steuber@virgil.net matches the regex",
+    "uid" : "c254d0ea73c54ec4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949022,
+      "stop" : 1597337949041,
+      "duration" : 19
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Autumn.Lebsack@kasandra.ca matches the regex",
+    "uid" : "fdfb4c77efac079b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337948890,
+      "stop" : 1597337948907,
+      "duration" : 17
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Bernie.Schoen@seamus.co.uk matches the regex",
+    "uid" : "e5471a0acb4d2c96",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949274,
+      "stop" : 1597337949292,
+      "duration" : 18
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Adolph.Hayes@isobel.biz matches the regex",
+    "uid" : "24f81ba7f26e4f80",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949588,
+      "stop" : 1597337949602,
+      "duration" : 14
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Merle.Schultz@marcel.org matches the regex",
+    "uid" : "91f6c5b0e6ab23c6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337948755,
+      "stop" : 1597337948771,
+      "duration" : 16
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Guillermo_Dare@dorothea.tv matches the regex",
+    "uid" : "4e89d4b0651e211d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949121,
+      "stop" : 1597337949137,
+      "duration" : 16
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Send the userId as boolean",
+    "uid" : "2eba0172da340a79",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337953591,
+      "stop" : 1597337953635,
+      "duration" : 44
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Tessie@emilie.co.uk matches the regex",
+    "uid" : "b3eab2651b4adc2f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949052,
+      "stop" : 1597337949069,
+      "duration" : 17
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Send the userId as minus",
+    "uid" : "a180553d7a5d5283",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337953499,
+      "stop" : 1597337953541,
+      "duration" : 42
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Aurelie_McKenzie@providenci.biz matches the regex",
+    "uid" : "4157b8f0eee522e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949003,
+      "stop" : 1597337949009,
+      "duration" : 6
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Send the postId as minus",
+    "uid" : "8c67fc7861d64bb9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337951448,
+      "stop" : 1597337951495,
+      "duration" : 47
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Malvina_Fay@louie.name matches the regex",
+    "uid" : "e58ac1a524c97b50",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337948774,
+      "stop" : 1597337948805,
+      "duration" : 31
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Oscar@pearline.com matches the regex",
+    "uid" : "300c48ba36fe0aad",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949139,
+      "stop" : 1597337949156,
+      "duration" : 17
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Drew_Lemke@alexis.net matches the regex",
+    "uid" : "b6f69b8fce95ee3e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949207,
+      "stop" : 1597337949223,
+      "duration" : 16
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Orlando_Dickinson@vern.org matches the regex",
+    "uid" : "5346c14455fbf9e2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949474,
+      "stop" : 1597337949492,
+      "duration" : 18
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Aylin@abigale.me matches the regex",
+    "uid" : "a10bd9ca7bc7c0e6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949089,
+      "stop" : 1597337949107,
+      "duration" : 18
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Send the userId as string",
+    "uid" : "f32971f928772827",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337953544,
+      "stop" : 1597337953589,
+      "duration" : 45
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Jonathon_Feest@maxime.io matches the regex",
+    "uid" : "9039f7dfef1766b5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949159,
+      "stop" : 1597337949168,
+      "duration" : 9
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Shany@daisha.biz matches the regex",
+    "uid" : "8fdccb5244a08a12",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949187,
+      "stop" : 1597337949204,
+      "duration" : 17
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Caleb_Dach@kathleen.us matches the regex",
+    "uid" : "68e8700657ce5738",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337948661,
+      "stop" : 1597337948686,
+      "duration" : 25
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Destinee.Simonis@jose.tv matches the regex",
+    "uid" : "65ecf03db659b803",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337948719,
+      "stop" : 1597337948736,
+      "duration" : 17
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Susan.Bartell@euna.org matches the regex",
+    "uid" : "182f3146470ebb31",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949350,
+      "stop" : 1597337949355,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Marilou_Halvorson@kane.io matches the regex",
+    "uid" : "6ae57ca5b58c654e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949256,
+      "stop" : 1597337949272,
+      "duration" : 16
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Marianna.Pacocha@george.net matches the regex",
+    "uid" : "a8f5c7b1b133f006",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337948851,
+      "stop" : 1597337948858,
+      "duration" : 7
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Selena.Quigley@johan.co.uk matches the regex",
+    "uid" : "a6095b5ca5a4dbb0",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949357,
+      "stop" : 1597337949375,
+      "duration" : 18
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Jedediah@mason.io matches the regex",
+    "uid" : "3465f59e0fb9c2f1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949519,
+      "stop" : 1597337949536,
+      "duration" : 17
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Send the userId empty in url",
+    "uid" : "3d2446bda9310c09",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337953303,
+      "stop" : 1597337953382,
+      "duration" : 79
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Adolf.Russel@clark.ca matches the regex",
+    "uid" : "99ea06f173cbbc03",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949425,
+      "stop" : 1597337949442,
+      "duration" : 17
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Send the postId as boolean",
+    "uid" : "c48926446789e9c1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337951547,
+      "stop" : 1597337951586,
+      "duration" : 39
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Elian@matilda.me matches the regex",
+    "uid" : "b732a7c80777847",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949444,
+      "stop" : 1597337949452,
+      "duration" : 8
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Send the postId as slash in url",
+    "uid" : "29e24b295f55297f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337951402,
+      "stop" : 1597337951445,
+      "duration" : 43
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Send the user as integer",
+    "uid" : "cdcf368a7282cc30",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337955474,
+      "stop" : 1597337955517,
+      "duration" : 43
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Alia@addison.org matches the regex",
+    "uid" : "4b1e39b5c7d48c9d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337948958,
+      "stop" : 1597337948991,
+      "duration" : 33
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Send the user as boolean",
+    "uid" : "94dbb8291356714b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337955520,
+      "stop" : 1597337955577,
+      "duration" : 57
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Lizzie_Bartell@diamond.net matches the regex",
+    "uid" : "caee24085d1f96a2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949389,
+      "stop" : 1597337949404,
+      "duration" : 15
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Joesph@darryl.net matches the regex",
+    "uid" : "35a263b7666a0e78",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949296,
+      "stop" : 1597337949305,
+      "duration" : 9
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Send the userId as star in url",
+    "uid" : "dc8e9c77fd85f3ac",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337953390,
+      "stop" : 1597337953495,
+      "duration" : 105
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Assert the email:Elda@orval.name matches the regex",
+    "uid" : "e343ae4aa4d1bfcf",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337949494,
+      "stop" : 1597337949501,
+      "duration" : 7
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Send the user as question mark in url",
+    "uid" : "b6171440f6a038aa",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1597337955376,
+      "stop" : 1597337955419,
+      "duration" : 43
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

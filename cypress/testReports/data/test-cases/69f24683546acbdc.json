@@ -1,0 +1,35 @@
+{
+  "uid" : "69f24683546acbdc",
+  "name" : "Assert the email:Rick@carlos.tv matches the regex",
+  "fullName" : "Assert the email:Rick@carlos.tv matches the regex",
+  "historyId" : "7b80d959ed5d0e47540c93c30ff42ebd",
+  "time" : {
+    "start" : 1597337949556,
+    "stop" : 1597337949573,
+    "duration" : 17
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "69f24683546acbdc.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,35 @@
+{
+  "uid" : "91f6c5b0e6ab23c6",
+  "name" : "Assert the email:Merle.Schultz@marcel.org matches the regex",
+  "fullName" : "Assert the email:Merle.Schultz@marcel.org matches the regex",
+  "historyId" : "0db8d9f3b460a15248e8618edfa149af",
+  "time" : {
+    "start" : 1597337948755,
+    "stop" : 1597337948771,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "91f6c5b0e6ab23c6.json",
+  "parameterValues" : [ ]
+}

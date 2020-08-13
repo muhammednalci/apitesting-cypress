@@ -1,0 +1,35 @@
+{
+  "uid" : "1380219db22f3f2e",
+  "name" : "Assert the email:Clifton_Boehm@jacynthe.io matches the regex",
+  "fullName" : "Assert the email:Clifton_Boehm@jacynthe.io matches the regex",
+  "historyId" : "e5f90956de717a74a869979362237a84",
+  "time" : {
+    "start" : 1597337949378,
+    "stop" : 1597337949386,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1380219db22f3f2e.json",
+  "parameterValues" : [ ]
+}

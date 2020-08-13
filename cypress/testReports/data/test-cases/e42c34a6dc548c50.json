@@ -1,0 +1,35 @@
+{
+  "uid" : "e42c34a6dc548c50",
+  "name" : "Assert the email:Julien_OHara@vance.io matches the regex",
+  "fullName" : "Assert the email:Julien_OHara@vance.io matches the regex",
+  "historyId" : "601255169ce2999af365cf2078984bcd",
+  "time" : {
+    "start" : 1597337949323,
+    "stop" : 1597337949348,
+    "duration" : 25
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e42c34a6dc548c50.json",
+  "parameterValues" : [ ]
+}

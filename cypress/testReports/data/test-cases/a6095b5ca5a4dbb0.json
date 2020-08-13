@@ -1,0 +1,35 @@
+{
+  "uid" : "a6095b5ca5a4dbb0",
+  "name" : "Assert the email:Selena.Quigley@johan.co.uk matches the regex",
+  "fullName" : "Assert the email:Selena.Quigley@johan.co.uk matches the regex",
+  "historyId" : "99f66773b048d745ef6c4eaf490cd91a",
+  "time" : {
+    "start" : 1597337949357,
+    "stop" : 1597337949375,
+    "duration" : 18
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a6095b5ca5a4dbb0.json",
+  "parameterValues" : [ ]
+}

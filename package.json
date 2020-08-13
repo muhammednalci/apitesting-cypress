@@ -8,7 +8,7 @@
   "scripts": {
     "cy:open": "cypress open --config integrationFolder=cypress/specs",
     "cy:run": "rm -rf cypress/testResults && cypress run --headless --config integrationFolder=cypress/specs --env allure=true",
-    "allure:report": "yarn allure generate cypress/testResults -c -o cypress/allure-results"
+    "allure:report": "rm -rf cypress/testReports && yarn allure generate cypress/testResults -c -o cypress/testReports"
   },
   "devDependencies": {
     "@shelex/cypress-allure-plugin": "^1.8.0",

@@ -1,0 +1,435 @@
+{
+  "uid" : "d5b338505b6070ae",
+  "name" : "Collect and save email addresses",
+  "fullName" : "Collect and save email addresses",
+  "historyId" : "3eb77af660dea7d1184384e2ef8a5ac8",
+  "time" : {
+    "start" : 1597337948215,
+    "stop" : 1597337948633,
+    "duration" : 418
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "collectAndSaveEmails (\"Delphine\")",
+      "time" : {
+        "start" : 1597337948256,
+        "stop" : 1597337948632,
+        "duration" : 376
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "search (\"users\"; \"username\"; \"Delphine\")",
+        "time" : {
+          "start" : 1597337948257,
+          "stop" : 1597337948302,
+          "duration" : 45
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "request (\"[object Object]\")",
+          "time" : {
+            "start" : 1597337948257,
+            "stop" : 1597337948302,
+            "duration" : 45
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "search (\"posts\"; \"userId\"; \"9\")",
+        "time" : {
+          "start" : 1597337948303,
+          "stop" : 1597337948330,
+          "duration" : 27
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "request (\"[object Object]\")",
+          "time" : {
+            "start" : 1597337948303,
+            "stop" : 1597337948330,
+            "duration" : 27
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "search (\"comments\"; \"postId\"; \"81\")",
+        "time" : {
+          "start" : 1597337948332,
+          "stop" : 1597337948379,
+          "duration" : 47
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "request (\"[object Object]\")",
+          "time" : {
+            "start" : 1597337948332,
+            "stop" : 1597337948379,
+            "duration" : 47
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "search (\"comments\"; \"postId\"; \"82\")",
+        "time" : {
+          "start" : 1597337948379,
+          "stop" : 1597337948403,
+          "duration" : 24
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "request (\"[object Object]\")",
+          "time" : {
+            "start" : 1597337948379,
+            "stop" : 1597337948403,
+            "duration" : 24
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "search (\"comments\"; \"postId\"; \"83\")",
+        "time" : {
+          "start" : 1597337948403,
+          "stop" : 1597337948432,
+          "duration" : 29
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "request (\"[object Object]\")",
+          "time" : {
+            "start" : 1597337948403,
+            "stop" : 1597337948432,
+            "duration" : 29
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "search (\"comments\"; \"postId\"; \"84\")",
+        "time" : {
+          "start" : 1597337948433,
+          "stop" : 1597337948463,
+          "duration" : 30
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "request (\"[object Object]\")",
+          "time" : {
+            "start" : 1597337948433,
+            "stop" : 1597337948463,
+            "duration" : 30
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "search (\"comments\"; \"postId\"; \"85\")",
+        "time" : {
+          "start" : 1597337948463,
+          "stop" : 1597337948487,
+          "duration" : 24
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "request (\"[object Object]\")",
+          "time" : {
+            "start" : 1597337948464,
+            "stop" : 1597337948487,
+            "duration" : 23
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "search (\"comments\"; \"postId\"; \"86\")",
+        "time" : {
+          "start" : 1597337948488,
+          "stop" : 1597337948515,
+          "duration" : 27
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "request (\"[object Object]\")",
+          "time" : {
+            "start" : 1597337948488,
+            "stop" : 1597337948515,
+            "duration" : 27
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "search (\"comments\"; \"postId\"; \"87\")",
+        "time" : {
+          "start" : 1597337948515,
+          "stop" : 1597337948537,
+          "duration" : 22
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "request (\"[object Object]\")",
+          "time" : {
+            "start" : 1597337948515,
+            "stop" : 1597337948537,
+            "duration" : 22
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "search (\"comments\"; \"postId\"; \"88\")",
+        "time" : {
+          "start" : 1597337948538,
+          "stop" : 1597337948566,
+          "duration" : 28
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "request (\"[object Object]\")",
+          "time" : {
+            "start" : 1597337948538,
+            "stop" : 1597337948566,
+            "duration" : 28
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "search (\"comments\"; \"postId\"; \"89\")",
+        "time" : {
+          "start" : 1597337948567,
+          "stop" : 1597337948587,
+          "duration" : 20
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "request (\"[object Object]\")",
+          "time" : {
+            "start" : 1597337948567,
+            "stop" : 1597337948587,
+            "duration" : 20
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "search (\"comments\"; \"postId\"; \"90\")",
+        "time" : {
+          "start" : 1597337948587,
+          "stop" : 1597337948619,
+          "duration" : 32
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "request (\"[object Object]\")",
+          "time" : {
+            "start" : 1597337948587,
+            "stop" : 1597337948619,
+            "duration" : 32
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "writeFile (\"cypress/fixtures/emails.json\"; \"Vella.Mayer@colten.net,Caleb_Dach@kathleen.us,Patience_Bahringer@dameon.biz,Destinee.Simonis@jose.tv,Keshaun@brown.biz,Merle.Schultz@marcel.org,Malvina_Fay@louie.name,Domenick_Douglas@gabe.us,Isaac@allene.net,Marianna.Pacocha@george.net,Sister_Barton@lela.com,Autumn.Lebsack@kasandra.ca,Irma.OKon@arden.me,Alaina_Hammes@carter.info,Alia@addison.org,Aurelie_McKenzie@providenci.biz,May_Steuber@virgil.net,Tessie@emilie.co.uk,Priscilla@colten.org,Aylin@abigale.me,Holden@kenny.io,Guillermo_Dare@dorothea.tv,Oscar@pearline.com,Jonathon_Feest@maxime.io,Micah_Wolf@lennie.co.uk,Shany@daisha.biz,Drew_Lemke@alexis.net,Karina.Donnelly@liam.com,Ahmed_Runolfsson@claire.name,Marilou_Halvorson@kane.io,Bernie.Schoen@seamus.co.uk,Joesph@darryl.net,Timmothy.Corwin@augustus.co.uk,Julien_OHara@vance.io,Susan.Bartell@euna.org,Selena.Quigley@johan.co.uk,Clifton_Boehm@jacynthe.io,Lizzie_Bartell@diamond.net,Yasmeen@golda.ca,Adolf.Russel@clark.ca,Elian@matilda.me,Salma@francis.net,Orlando_Dickinson@vern.org,Elda@orval.name,Dennis@karley.net,Jedediah@mason.io,Maryam@jack.name,Rick@carlos.tv,Vallie@jerrod.net,Adolph.Hayes@isobel.biz\")",
+        "time" : {
+          "start" : 1597337948619,
+          "stop" : 1597337948632,
+          "duration" : 13
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 25,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 26,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d5b338505b6070ae.json",
+  "parameterValues" : [ ]
+}

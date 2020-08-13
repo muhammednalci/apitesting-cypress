@@ -1,0 +1,35 @@
+{
+  "uid" : "3465f59e0fb9c2f1",
+  "name" : "Assert the email:Jedediah@mason.io matches the regex",
+  "fullName" : "Assert the email:Jedediah@mason.io matches the regex",
+  "historyId" : "96cdf753bc3241646c623c3c15491fc7",
+  "time" : {
+    "start" : 1597337949519,
+    "stop" : 1597337949536,
+    "duration" : 17
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3465f59e0fb9c2f1.json",
+  "parameterValues" : [ ]
+}

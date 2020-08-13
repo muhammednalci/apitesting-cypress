@@ -1,0 +1,35 @@
+{
+  "uid" : "b6f69b8fce95ee3e",
+  "name" : "Assert the email:Drew_Lemke@alexis.net matches the regex",
+  "fullName" : "Assert the email:Drew_Lemke@alexis.net matches the regex",
+  "historyId" : "540381562b339b192d01c3a069134cdb",
+  "time" : {
+    "start" : 1597337949207,
+    "stop" : 1597337949223,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b6f69b8fce95ee3e.json",
+  "parameterValues" : [ ]
+}

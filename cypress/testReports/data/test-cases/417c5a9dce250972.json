@@ -1,0 +1,35 @@
+{
+  "uid" : "417c5a9dce250972",
+  "name" : "Assert the email:Vella.Mayer@colten.net matches the regex",
+  "fullName" : "Assert the email:Vella.Mayer@colten.net matches the regex",
+  "historyId" : "8489c9eeaaacafd31ece78a34af32303",
+  "time" : {
+    "start" : 1597337948637,
+    "stop" : 1597337948657,
+    "duration" : 20
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "417c5a9dce250972.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,35 @@
+{
+  "uid" : "1af1d24401366e95",
+  "name" : "Assert the email:Alaina_Hammes@carter.info matches the regex",
+  "fullName" : "Assert the email:Alaina_Hammes@carter.info matches the regex",
+  "historyId" : "d2ca0e8a3167da14c8362782e5acc18c",
+  "time" : {
+    "start" : 1597337948939,
+    "stop" : 1597337948956,
+    "duration" : 17
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1af1d24401366e95.json",
+  "parameterValues" : [ ]
+}

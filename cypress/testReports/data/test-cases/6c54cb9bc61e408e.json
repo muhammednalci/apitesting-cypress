@@ -1,0 +1,35 @@
+{
+  "uid" : "6c54cb9bc61e408e",
+  "name" : "Assert the email:Karina.Donnelly@liam.com matches the regex",
+  "fullName" : "Assert the email:Karina.Donnelly@liam.com matches the regex",
+  "historyId" : "6a8842cb30ae62e4336eceea9c6cb132",
+  "time" : {
+    "start" : 1597337949226,
+    "stop" : 1597337949235,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6c54cb9bc61e408e.json",
+  "parameterValues" : [ ]
+}

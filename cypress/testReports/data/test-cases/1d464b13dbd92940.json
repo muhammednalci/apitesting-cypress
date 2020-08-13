@@ -1,0 +1,35 @@
+{
+  "uid" : "1d464b13dbd92940",
+  "name" : "Assert the email:Sister_Barton@lela.com matches the regex",
+  "fullName" : "Assert the email:Sister_Barton@lela.com matches the regex",
+  "historyId" : "ffb8f2fcbef9882c7cd9318969f22de3",
+  "time" : {
+    "start" : 1597337948870,
+    "stop" : 1597337948887,
+    "duration" : 17
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1d464b13dbd92940.json",
+  "parameterValues" : [ ]
+}

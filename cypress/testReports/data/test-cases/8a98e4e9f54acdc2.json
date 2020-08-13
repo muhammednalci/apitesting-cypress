@@ -1,0 +1,35 @@
+{
+  "uid" : "8a98e4e9f54acdc2",
+  "name" : "Assert the email:Yasmeen@golda.ca matches the regex",
+  "fullName" : "Assert the email:Yasmeen@golda.ca matches the regex",
+  "historyId" : "9355192a6e5812b152ea1269af217b21",
+  "time" : {
+    "start" : 1597337949406,
+    "stop" : 1597337949422,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Email RegEx Check One By One"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8a98e4e9f54acdc2.json",
+  "parameterValues" : [ ]
+}
