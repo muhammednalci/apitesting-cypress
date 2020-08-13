@@ -14,6 +14,10 @@ Cypress.Commands.add('search', (url, field, query) =>
     )
 );
 
+/**
+ * collect emails that found in comments for all posts of a specific user and write ina document 
+ * @nameOfUser  the user that you want to search
+ */
 Cypress.Commands.add('collectAndSaveEmails', (nameOfUser) =>
     cy.search('users', 'username', nameOfUser).then((response) => {
         cy.search('posts', 'userId', response.body[0].id).then((response) => {

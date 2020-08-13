@@ -1,6 +1,5 @@
 import Utilities from '../support/Utilities.js';
 
-
 describe('Email RegEx Check All Together', () => {
     const util = new Utilities();
     it('Get all emails in comments and assert as group', () => {
